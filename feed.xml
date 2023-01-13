@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+ <title>The Seattle Pub</title>
+ <link>https://seattle.pub</link>
+ <description>The Seattle Pub is a public domain newspaper serving the people of Seattle, WA</description>
+ <lastBuildDate>Fri, 13 Jan 2023 17:12:10 +0000</lastBuildDate>
+ <language>en-us</language>
+ <item>
+  <title>Aloha Seattle</title>
+  <link>https://seattle.pubfirstPost.html</link>
+  <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+ </item>
+</channel>
+</rss>

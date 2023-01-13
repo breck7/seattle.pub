@@ -1,0 +1,18 @@
+{
+  "name": "The Seattle Pub",
+  "description": "The Seattle Pub is a public domain newspaper serving the people of Seattle, WA",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breck7/seattle.pub.git"
+  },
+  "author": "Breck Yunits et al",
+  "homepage": "https://seattle.pub",
+  "dependencies": {
+    "scroll-cli": "^52.2.0"
+  },
+  "scripts": {
+    "test": "scroll test",
+    "build": "scroll build",
+    "open": "open index.html"
+  }
+}
