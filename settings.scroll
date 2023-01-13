@@ -1,0 +1,6 @@
+importOnly
+description The Seattle Pub is a public domain newspaper serving the people of Seattle, WA
+git https://github.com/breck7/seattle.pub
+viewSourceBaseUrl https://github.com/breck7/seattle.pub/blob/main
+email tips@seattle.pub
+baseUrl https://seattle.pub
